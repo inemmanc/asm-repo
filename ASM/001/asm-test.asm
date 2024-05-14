@@ -1,6 +1,6 @@
 section .data
 
-msg:	db "Salve, simpatia!",10	; 'msg' - rótulo dos dados definidos
+msg:	db "Salve",10	; 'msg' - rótulo dos dados definidos
 					; 'db'  - os dados são definidos como
 					;	  uma cadeia de bytes.
 
